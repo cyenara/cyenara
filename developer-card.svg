@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 388" role="img" aria-labelledby="title desc">
+<title id="title">Renaldas Popovas — Developer ID Card</title>
+<desc id="desc">A compact developer profile showing education, interests, technical skills and WatchVault project.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121b27"/><stop offset="1" stop-color="#0b131d"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#46b5ea"/><stop offset=".55" stop-color="#71d5c8"/><stop offset="1" stop-color="#171f2a"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="878" height="386" rx="19" fill="url(#bg)" stroke="#354556" stroke-width="2"/>
+<path d="M20 2 H860" stroke="url(#accent)" stroke-width="3"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+  <text x="38" y="36" font-family="Consolas, monospace" font-size="12" font-weight="700" fill="#7dc8e9" letter-spacing="2">DEVELOPER / PROFILE</text>
+  <text x="38" y="85" font-size="32" font-weight="750" fill="#edf5fa">Renaldas Popovas</text>
+  <text x="39" y="112" font-size="16" fill="#a9bccc">Informatics Engineering Student at KTU</text>
+  <rect x="644" y="48" width="196" height="59" rx="10" fill="#172637" stroke="#344d60"/>
+  <circle cx="665" cy="67" r="4" fill="#66d3ab"/>
+  <text x="679" y="71" font-family="Consolas, monospace" font-size="12" fill="#9fb7ca" letter-spacing=".6">CURRENT PROJECT</text>
+  <text x="662" y="94" font-size="19" fill="#f2f7fb" font-weight="700">WatchVault</text>
+  <path d="M38 134 H842" stroke="#344557"/>
+  <text x="38" y="162" font-family="Consolas, monospace" font-size="13" font-weight="700" fill="#66c6e9" letter-spacing="1.5">01 / INFORMATION</text>
+  <text x="444" y="162" font-family="Consolas, monospace" font-size="13" font-weight="700" fill="#66c6e9" letter-spacing="1.5">02 / TECHNOLOGIES</text>
+  <path d="M420 182 V330" stroke="#2c3d4e"/>
+  <g font-size="15.5">
+    <text x="38" y="205" fill="#ffba78" font-weight="600">Education</text>
+    <text x="145" y="205" fill="#dce8f1">KTU · Informatics Engineering</text>
+    <text x="38" y="249" fill="#ffba78" font-weight="600">Focus</text>
+    <text x="145" y="249" fill="#dce8f1">Software / Web Development</text>
+    <text x="38" y="293" fill="#ffba78" font-weight="600">Location</text>
+    <text x="145" y="293" fill="#dce8f1">Lithuania</text>
+    <text x="444" y="205" fill="#ffba78" font-weight="600">Code</text>
+    <text x="523" y="205" fill="#dce8f1" font-size="14.5">JS · PHP · Java · C# · C++</text>
+    <text x="444" y="243" fill="#ffba78" font-weight="600">Web</text>
+    <text x="523" y="243" fill="#dce8f1" font-size="14.5">HTML · CSS · Node.js · Express</text>
+    <text x="444" y="281" fill="#ffba78" font-weight="600">Tools</text>
+    <text x="523" y="281" fill="#dce8f1" font-size="14.5">MySQL · Git · GitHub · VS Code</text>
+    <text x="444" y="319" fill="#ffba78" font-weight="600">Other</text>
+    <text x="523" y="319" fill="#dce8f1" font-size="14.5">ESP32 · MQTT · Cisco Packet Tracer</text>
+  </g>
+  <path d="M38 341 H842" stroke="#344557"/>
+  <text x="38" y="369" font-family="Consolas, monospace" font-size="13" fill="#ffba78" letter-spacing="1">FEATURED</text>
+  <text x="143" y="369" font-size="15" fill="#dce8f1">WatchVault — Movie discovery · TMDB API · Personal watchlist</text>
+</g>
+</svg>
